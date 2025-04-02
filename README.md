@@ -9,8 +9,7 @@ This project is an **advanced AI chatbot** built using **LLaMA 2** and **Termina
 ✅ **Sentiment Analysis** – Detects user sentiment (😊 Positive / 😞 Negative / 😐 Neutral)  
 ✅ **Live Weather Updates** – Fetches real-time weather information  
 ✅ **Latest News Headlines** – Fetches top news headlines  
-✅ **Wikipedia Search** – Answers factual questions using Wikipedia  
-✅ **Streamlit Web Interface** – User-friendly and interactive UI  
+
 
 ---
 
