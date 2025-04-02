@@ -1,7 +1,7 @@
-# 🦙 Advanced AI Chatbot (LLaMA 2 + Streamlit)
+# 🦙 Advanced AI Chatbot (LLaMA 2 + Terminal)
 
 ## 🚀 Introduction
-This project is an **advanced AI chatbot** built using **LLaMA 2** and **Streamlit**. It integrates **NLP, Sentiment Analysis, Live Weather, News, and Wikipedia Search** to provide a powerful and interactive chatbot experience.
+This project is an **advanced AI chatbot** built using **LLaMA 2** and **Terminal**. It integrates **NLP, Sentiment Analysis, Live Weather, News, and Wikipedia Search** to provide a powerful and interactive chatbot experience.
 ---
 
 ## 🔹 Features
