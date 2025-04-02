@@ -1,0 +1,17 @@
+# Streamlit for deployment
+streamlit==1.26.0
+
+# Sentiment analysis
+nltk==3.9.0
+
+# Wikipedia API
+wikipedia-api==0.5.8
+
+# HTTP requests
+requests==2.31.0
+
+# OpenAI LLaMA integration (ollama)
+ollama==0.4.7
+
+# Environment variable management (if needed for config.json)
+python-dotenv==1.0.0
