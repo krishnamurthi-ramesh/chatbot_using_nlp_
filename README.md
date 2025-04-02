@@ -2,20 +2,6 @@
 
 ## 🚀 Introduction
 This project is an **advanced AI chatbot** built using **LLaMA 2** and **Streamlit**. It integrates **NLP, Sentiment Analysis, Live Weather, News, and Wikipedia Search** to provide a powerful and interactive chatbot experience.
-
----
-
-## 📂 Project Structure
-```
-📂 AdvancedChatbot
-│── 📂 api                # API integrations (weather, news)
-│── 📂 utils              # Helper functions (sentiment, Wikipedia search)
-│── chatbot.py            # Main Streamlit app
-│── requirements.txt      # Dependencies
-│── config.json           # API keys
-│── README.md             # Documentation
-```
-
 ---
 
 ## 🔹 Features
@@ -68,9 +54,6 @@ streamlit run chatbot.py
 2️⃣ **LLaMA 2 AI:** Uses **Ollama** for intelligent responses.  
 3️⃣ **Sentiment Analysis:** Classifies messages as **positive, negative, or neutral**.  
 4️⃣ **Live Weather & News:** Uses **OpenWeather API** and **NewsAPI** for real-time updates.  
-5️⃣ **Wikipedia Search:** Fetches summarized content for factual questions.  
-6️⃣ **Streamlit UI:** Displays messages and chat history.  
-
 ---
 
 ## 📌 Example Queries
@@ -94,8 +77,6 @@ streamlit run chatbot.py
 This project is open-source and available for modifications.
 
 📌 **Developed by:** R Krishnamurthi
-
----
 
 ## Advanced Chatbot with Llama2
 
